@@ -3,7 +3,7 @@ import Link from "next/link";
 const AboutPage = () => {
   return (
     <>
-      <Link href={"/about2"}>About2</Link>
+      <Link href={"/about"}>About</Link>
     </>
   );
 };
